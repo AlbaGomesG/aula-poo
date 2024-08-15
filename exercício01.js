@@ -15,7 +15,7 @@ let aluno = "Giovanna";
 
 const alunoObjeto = new Object()
 alunoObjeto.nome = "Giovanna";
-alunoObjeto.turma = "tds1";
+alunoObjeto.turma = "DS";
 alunoObjeto.chamada = 15
 
 alunoObjeto.chamada = 17; // Corrigindo
@@ -27,7 +27,7 @@ let carro = "Caminhonete";
 
 const carroObjeto = new Object()
 carroObjeto.cor = "Preto";
-carroObjeto.modelo = "Volkswagen Amarok Highline V6 3.0 Turbo Diesel";
+carroObjeto.modelo = "Amarok";
 carroObjeto.ano = 2019;
 
 carroObjeto.ano = 2018;
